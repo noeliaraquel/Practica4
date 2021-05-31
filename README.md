@@ -1,3 +1,3 @@
 # Practica4
 Practicas de SyS
- ![Alt text](img/Prueba1.gif) 
+ ![Alt text](Prueba1.gif) 
